@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/KingCosmic/parselicious/issues"
   },
-  "homepage": "https://github.com/KingCosmic/parselicious#readme"
+  "homepage": "https://github.com/KingCosmic/parselicious#readme",
+  "dependencies": {
+    "mathjs": "^11.8.2"
+  }
 }
