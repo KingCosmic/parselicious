@@ -1,0 +1,22 @@
+{
+  "name": "parselicious",
+  "version": "0.0.1",
+  "description": "a module for parsing strings used inhouse for BardsBallad modifier strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingCosmic/parselicious.git"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "Austyn Studdard <contact@austynstuddard.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KingCosmic/parselicious/issues"
+  },
+  "homepage": "https://github.com/KingCosmic/parselicious#readme"
+}
