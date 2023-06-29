@@ -1,6 +1,6 @@
 {
   "name": "parselicious",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a module for parsing strings used inhouse for BardsBallad modifier strings.",
   "main": "index.js",
   "scripts": {
